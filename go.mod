@@ -23,7 +23,7 @@ require (
 	github.com/docker/libnetwork v0.8.0-dev.2.0.20200226230617-d8334ccdb9be
 	github.com/gofrs/flock v0.7.3
 	github.com/gogo/googleapis v1.3.2
-	github.com/gogo/protobuf v1.3.1
+	github.com/gogo/protobuf v1.3.2
 	// protobuf: the actual version is replaced in replace()
 	github.com/golang/protobuf v1.4.2
 	github.com/google/go-cmp v0.4.0
@@ -56,9 +56,9 @@ require (
 	github.com/urfave/cli v1.22.2
 	go.etcd.io/bbolt v1.3.5
 	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
-	golang.org/x/net v0.0.0-20200707034311-ab3426394381
-	golang.org/x/sync v0.0.0-20190911185100-cd5d95a43a6e
-	golang.org/x/sys v0.0.0-20200728102440-3e129f6d46b1
+	golang.org/x/net v0.0.0-20201021035429-f5854403a974
+	golang.org/x/sync v0.0.0-20201020160332-67f06af15bc9
+	golang.org/x/sys v0.0.0-20200930185726-fdedc70b468f
 	golang.org/x/time v0.0.0-20191024005414-555d28b269f0
 	// genproto: the actual version is replaced in replace()
 	google.golang.org/genproto v0.0.0-20200526211855-cb27e3aa2013
