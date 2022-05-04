@@ -313,7 +313,7 @@ github.com/stretchr/testify/assert
 github.com/stretchr/testify/require
 # github.com/syndtr/gocapability v0.0.0-20180916011248-d98352740cb2
 github.com/syndtr/gocapability/capability
-# github.com/tonistiigi/fsutil v0.0.0-20201103201449-0834f99b7b85
+# github.com/tonistiigi/fsutil v0.0.0-20201103201449-0834f99b7b85 => github.com/tilt-dev/fsutil v0.0.0-tilt-20220504
 github.com/tonistiigi/fsutil
 github.com/tonistiigi/fsutil/copy
 github.com/tonistiigi/fsutil/types
